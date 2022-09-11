@@ -6,7 +6,7 @@ module.exports = {
     'Mikolaj Wojtowicz, Mikolaj, Wojtowicz, not-pancakes, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
   siteUrl: 'https://mwojtowicz.dev',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'G-9G47HBSVPE',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Mikolaj Wojtowicz',
   location: 'Warsaw, Poland',
