@@ -5,6 +5,7 @@ module.exports = {
     title: config.siteTitle,
     siteUrl: config.siteUrl,
     description: config.siteDescription,
+    pathPrefix: "/portfolio-v2",
     image: '/images/og.png',
   },
   plugins: [
@@ -18,7 +19,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'MikolajWojtowicz',
-        short_name: 'MikolajWojtowoicz',
+        short_name: 'MikolajWojtowicz',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
