@@ -2,7 +2,7 @@
 date: '2022-09-10'
 title: 'new new-tab'
 github: 'https://github.com/not-pancakes/Custom-new-tab-extension'
-external: ''
+external: 'https://youtu.be/EoHpmrWeoJU'
 tech:
   - CSS
   - HTML
