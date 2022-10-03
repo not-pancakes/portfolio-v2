@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: 'Pancakes.jpg'
+avatar: 'Pancakes.png'
 skills:
   - JavaScript
   - HTML
